@@ -1,0 +1,16 @@
+/* Add your styles here */
+.header{
+    text-align: center;
+    font-size: 2em;
+  }
+  span{
+    font-size: 4em;
+  }
+  .content{
+    display: flex;
+    justify-content: center;
+  }
+  .button{
+    margin-right: 5px;
+  }
+  

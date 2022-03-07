@@ -1,0 +1,59 @@
+/* Add your styles here */
+
+*{
+    padding: 0;
+    margin: 0;
+  }
+  h1{
+    text-align: center;
+  }
+  #oopenmodal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40vh;
+  }
+  
+  #modal1{
+    
+    background-color: blanchedalmond;
+    height: 40vh;
+    width: 40%;
+    display: none;
+  
+  }
+  #modal1.open{
+    display: block;
+  }
+  .closemodal{
+    float: right;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
